@@ -1,0 +1,20 @@
+<section id="equipe">
+    <div class="container">
+        {% for item in page.equipe %}
+        <h1 class="pt-5 pb-2 text-center">{{ item.titulo }}</h1>
+        <p class="text-center pb-5 sub-text-blue">{{ item.subtitulo}}</p>
+        {% endfor %}
+        <div class="row">
+            {% for person in site.team %}
+            <div class="col-lg-4">
+                <div class="team-member">
+                    <img src="{{ site.baseurl }}/{{ person.img }}" class="rounded-circle">
+                    <h4 class="text-white">{{ person.title }}</h4>
+                    <p class="sub-text-blue">{{ person.position }}</p>
+                    <p class="text-white">{{ person.content }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

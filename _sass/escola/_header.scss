@@ -1,0 +1,40 @@
+@import "variables";
+
+header{
+    background: #c94b4b;
+    background: linear-gradient(to left, $primary-color, $secondary-color);
+}
+
+.header-title{
+    height: 100vh;
+
+    h1{
+        font-weight: 500;
+    }
+}
+
+.logo{
+    width: 60px;
+    padding-right: 5px;
+}
+
+.carousel-item {
+    height: 100vh;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+  
+  .carousel-caption {
+    bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    right: 15%;
+    left: 15%;
+    z-index: 10;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+  }

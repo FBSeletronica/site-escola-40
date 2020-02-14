@@ -1,0 +1,16 @@
+@import 'variables';
+
+#equipe{
+    background-color: $secondary-color;
+    padding: 3rem 0 5rem 0;
+}
+
+.team-member{
+    text-align: center;
+    img{
+        width: 225px;
+        height: 225px;
+        border: 7px solid rgba(0,0,0,.1);
+        margin-bottom: 1rem;
+    }
+}

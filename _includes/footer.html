@@ -1,0 +1,33 @@
+<footer class="pb-3">
+  <div class="container pt-5 pb-2">
+    <div class="row">
+      <div class="col-12 col-md-4">
+        <a href="{{ site.relative_url }}/"><img class="d-block mx-auto"
+            src="{{ "/assets/img/logo-footer.png" | relative_url }}"></a>
+        <small class="d-block mb-3 text-muted text-center mt-2">
+          Copyright © {{ site.time | date: "%Y" }} {{ site.title }}.
+        </small>
+      </div>
+      <div class="col-6 col-md-4 sim">
+        {% for item in page.footer %}
+        <h5>{{ item.titulo}}</h5>
+        <p>{{ item.description }}</p>
+        {% endfor %}
+        <a href="#inscricoes">
+            <button type="button" class="ml-2 btn btn-info">Inscreva-se</button>
+        </a>
+        </ul>
+      </div>
+      <div class="col-6 col-md-4">
+        <h5>Redes sociais</h5>
+        {%- include social.html -%}
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="{{ "/assets/js/jquery-3.4.1.min.js" |  relative_url }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
+<script src="https://kit.fontawesome.com/ca7455c399.js" crossorigin="anonymous"></script>

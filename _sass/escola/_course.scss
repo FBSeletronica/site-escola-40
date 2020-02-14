@@ -1,0 +1,23 @@
+.course{
+    padding: 4rem 0 0 0;
+    background-image: url(/assets/img/slide.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 4rem 0 2rem 0;
+}
+
+.course-item{
+    i{
+        padding: 2rem;
+        border: 2px solid white;
+        border-radius: 20px;
+        color: white;
+    }
+    img{
+        width: 225px;
+        height: 225px;
+        border: 7px solid rgba(0,0,0,.1);
+        margin-bottom: 1rem;
+    }
+}

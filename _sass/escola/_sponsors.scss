@@ -1,0 +1,11 @@
+@import 'variables';
+
+.sponsor{
+    padding: 3rem 0 5rem 0;
+    background-color: $secondary-color;
+
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

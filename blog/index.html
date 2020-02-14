@@ -1,0 +1,19 @@
+---
+layout: blog
+title: Blog
+---
+{%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+    <div class="col-lg-4 col-sm-6 mb-4 mt-4">
+        <div class="card">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <a href="{{ post.url | relative_url }}" target="_blank">
+                <img src="{{ post.img | relative_url }}" class="card-img-top">
+            </a>
+        <div class="card-body">
+            <a class="card-title" href="{{ post.url | relative_url }}"> {{ post.title | escape }}</a>
+        </div>
+        </div>
+    </div>
+    {%- endfor -%}
+{%- endif -%}

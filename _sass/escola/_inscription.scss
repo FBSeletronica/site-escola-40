@@ -1,0 +1,24 @@
+@import "variables";
+
+.inscription{
+    height: 50vh;
+    background-color: $primary-color;
+}
+
+.form-inline{
+    justify-content: center;
+}
+
+.form-control{
+    border-radius: 10rem;
+}
+
+input[type=submit]{
+    margin-top: .40rem;
+}
+
+@media (max-width: 460px){
+    .inscription{
+        height: 70vh;
+    }
+}

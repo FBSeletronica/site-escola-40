@@ -1,0 +1,22 @@
+<section class="sponsor">
+    <div class="container">
+        <h1 class="pt-5 pb-4 text-white text-center">Apoiadores</h1>
+        <div class="row justify-content-center">
+        {% if site.sponsors.size > 0 %}
+            {% for sponsor in site.sponsors %}
+                <div class="col-md-3">
+                    <a href="{{ sponsor.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/{{ sponsor.img }}">
+                    </a>
+                </div>
+            {% endfor%}
+        </div>
+        {% else %}
+            {% for item in page.apoiadores %}
+            <p class="text-white text-center">
+                {{ item.subtitulo }}
+            </p>
+            {% endfor %}
+        {% endif %}
+    </div>
+</section>

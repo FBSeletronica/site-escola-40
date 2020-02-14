@@ -1,0 +1,30 @@
+<section id="inscricoes" class="inscription d-flex justify-content-center flex-column">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {% for item in page.inscricao %}
+                    <h1 class="text-center pb-1 text-white newsletter-title">
+                        {{ item.titulo}}
+                    </h1>
+                    <p class="text-center sub-text-rose">
+                        {{ item.subtitulo }}
+                    </p>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <form class="form-inline pt-4"action="https://franzininho.us19.list-manage.com/subscribe/post?u=7ad9e46000496af8e6abb047b&amp;id=91677bbea5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                        <div>
+                        <input type="email" value="" name="EMAIL" class="form-control" placeholder="Digite seu e-mail" required>
+                        <input type="submit" value="Inscreva-se" name="subscribe"class="btn btn-info">
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                            <input type="text" name="b_7ad9e46000496af8e6abb047b_91677bbea5" tabindex="-1" value="">
+                        </div>
+                        </div>
+                    </form>                        
+                </div>
+            </div>
+        </div>
+</section>

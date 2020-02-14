@@ -1,0 +1,21 @@
+footer{
+    h5{
+        color:#bfbcbc;
+    }
+    p{
+        color: #6c757d;
+    }
+    background-color: #0f0f0f;
+    
+    img{
+        width: 60px;
+    }
+}
+
+@media (max-width: 460px){
+    .sim{
+        padding-left: 2.2rem;
+    }
+}
+
+

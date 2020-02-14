@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-light fixed-top nav-scrolled bg-navbar shadow-sm rounded">
+    <div class="container">
+        <a href="{{ site.relative_url }}/#top">
+            <img class="logo" src="{{ "/assets/img/logo.png" | relative_url }}" alt="Logo do projeto Escola 4.0">
+        </a>
+        <a class="navbar-brand " href="{{ site.relative_url }}/#inicio">{{site.title}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto ">
+                {% for item in site.data.navigation %}
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+                    <a class="nav-link" href="{{ site.baseurl }}{{ item.link }}">
+                        {{ item.name }}
+                    </a>
+                </li>
+                {% endfor %}
+                <a href="#inscricoes">
+                    <button type="button" class="ml-2 btn btn-info">Inscreva-se</button>
+                </a>
+            </ul>
+        </div>
+    </div>
+</nav>

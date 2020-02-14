@@ -1,0 +1,40 @@
+<ul class="list-unstyled text-small">
+  {%- if site.instagram_username -%}
+  <li>
+      <a class="text-muted" href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
+          <i class="fab fa-instagram mr-1"></i>Instagram
+  </li>
+  {%- endif -%}
+ 
+  {%- if site.github_username -%}
+  <li>
+      <a class="text-muted" href="https://github.com/{{ site.github_username }}" target="_blank">
+          <i class="fa fa-github mr-1"></i>GitHub
+      </a>
+  </li>
+  {%- endif -%}
+
+  {%- if site.twitter_username -%}
+  <li>
+      <a class="text-muted" href="https://www.twitter.com/{{ site.twitter_username }}" target="_blank">
+          <i class="fab fa-twitter mr-1"></i>Twitter
+      </a>
+  </li>
+  {%- endif -%}
+
+  {%- if site.youtube_username -%}
+  <li>
+      <a class="text-muted" href="https://www.youtube.com/{{ site.youtube_username }}" target="_blank">
+          <i class="fab fa-youtube mr-1"></i>YouTube
+      </a>
+  </li>
+  {%- endif -%}
+
+  {%- if site.facebook_username -%}
+  <li>
+      <a class="text-muted" href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank">
+          <i class="fab fa-facebook mr-1"></i>Facebook
+      </a>
+  </li>
+  {%- endif -%}
+ </ul>

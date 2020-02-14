@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.sub-text-blue{
+  color: #b0d6ff;
+}
+
+.sub-text-rose{
+  color: #ffbfe3;
+}
+
+// Import partials.
+
+@import
+  "boostrap/bootstrap",
+  "escola/variables",
+  "escola/navbar",
+  "escola/header",
+  "escola/inscription",
+  "escola/team",
+  "escola/sponsors",
+  "escola/contact",
+  "escola/blog",
+  "escola/syntax-highlighting",
+  "escola/footer",
+  "escola/layout",
+  "escola/course"
+;

@@ -1,0 +1,26 @@
+title: Escola 4.0
+email: your-email@example.com
+description: ""
+baseurl: ""
+url: ""
+twitter_username:
+github_username:
+instagram_username: escola4.0
+youtube_username: 
+facebook_username: escola4.0
+
+# Build settings
+theme: minima
+permalink: /blog/:title
+plugins:
+  - jekyll-feed
+
+sass:
+    style: compressed
+
+collections:
+  team:
+    sort_by: number
+  sponsors:
+  slides:
+  courses:

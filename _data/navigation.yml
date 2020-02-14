@@ -1,0 +1,10 @@
+- name: Início
+  link: '/#inicio'
+- name: Sobre
+  link: '/#sobre'
+- name: Equipe
+  link: '/#equipe'
+- name: Blog
+  link: /blog/
+- name: Contato
+  link: '/#contato'

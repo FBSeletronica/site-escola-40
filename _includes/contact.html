@@ -1,0 +1,18 @@
+<section id="contato" class=" pt-4 pb-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        {% for item in page.contato %}
+        <h1 class="pt-5 pb-1">{{ item.titulo}}</h1>
+        <p class="pb-5 sub-text-rose">{{ item.subtitulo }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row pb-4">
+      <div class="col text-center">
+        <i class="fa fa-3x mb-3 fa-envelope-o"></i>
+        <a class="d-block text-white" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+    </div>
+  </div>
+</section>
