@@ -1,6 +1,6 @@
 ---
 title: Escola 4.0
-img: assets/img/slide.png
+img: assets/img/slide_01.png
 status: null
 ---
 

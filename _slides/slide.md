@@ -1,6 +1,6 @@
 ---
 title: Um curso da Extecamp
-img: assets/img/slide.png
+img: assets/img/slide_02.png
 status: active
 ---
 
