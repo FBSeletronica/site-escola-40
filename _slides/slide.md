@@ -1,7 +1,7 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Um curso da Extecamp
 img: assets/img/slide.png
 status: active
 ---
-Et dolore magna aliqua. Ut enim ad minim veniam, 
-quis nostrud exercitation ullamco laboris nisi ut aliquip
+
+Um curso EAD com materiais alinhados a BNCC que possibilita a professores de diversas regiões terem acesso a formação.

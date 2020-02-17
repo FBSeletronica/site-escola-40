@@ -1,9 +1,8 @@
 ---
 title: Raphael Montali
 img: assets/img/team/raphael.jpg
-position: Orientador
-number: 4
+position: Doutorando em Engenharia Elétrica
+number: 6
 ---
-Graduado em Engenharia Elétrica com Habilitação em Telecomunicações e 
-Mestre em Gestão de Redes de Telecomunicações pela PUC-Campinas, 
-doutorando em Engenharia Elétrica na UNICAMP.
+
+Mestre em Gestão de Redes de Telecomunicações pela PUC-Campinas.

@@ -1,8 +1,8 @@
 ---
 title: Fabiano Fruett
 img: assets/img/team/fabiano.jpg
-position: Professor
-number: 1
+position: Professor Dr. da UNICAMP
+number: 2
 ---
-Engenheiro Eletricista, Mestre em Microeletrônica 
-e Doutor em Instrumentação Eletrônica. Professor na Unicamp desde 2002.
+
+Mestre em Microeletrônica e Doutor em Instrumentação Eletrônica.

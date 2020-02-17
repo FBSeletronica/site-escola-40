@@ -1,9 +1,8 @@
 ---
-title: Pedro R. Chaves 
+title: Pedro R. Chaves
 img: assets/img/team/pedro.PNG
-position: Orientador
-number: 2
+position: Doutorando em Engenharia Elétrica
+number: 5
 ---
-Graduado em engenharia de telecomunicações pela 
-South Bank University, Londres. Mestre em gerenciamento 
-de redes e doutorando em engenharia elétrica.
+
+Mestre em gerenciamento de redes, pesquisador no campo de redes de sensores sem fio.

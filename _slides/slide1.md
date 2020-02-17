@@ -1,7 +1,7 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Escola 4.0
 img: assets/img/slide.png
-status:
+status: null
 ---
-Et dolore magna aliqua. Ut enim ad minim veniam, 
-quis nostrud exercitation ullamco laboris nisi ut aliquip
+
+Capacitando professores de ensino fundamental no uso de tecnologias acessíveis que permitam explorar e desenvolver habilidades multidisciplinares com seus alunos.
