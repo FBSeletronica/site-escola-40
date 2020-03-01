@@ -1,7 +1,11 @@
 ---
-title: Escola 4.0
+title: |-
+  Tecnologias acessíveis na sua sala de
+  aula
 img: assets/img/slide_01.png
 status: null
 ---
 
-Capacitando professores de ensino fundamental no uso de tecnologias acessíveis que permitam explorar e desenvolver habilidades multidisciplinares com seus alunos.
+Neste curso vamos oferecer, aos professores do ensino fundamental II e médio, capacitação
+no uso de tecnologias acessíveis que permitam explorar e desenvolver habilidades
+multidisciplinares com seus alunos.
