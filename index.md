@@ -17,4 +17,12 @@ footer:
   description: Receba as atualizações sobre o curso.
 ---
 
-O projeto Escola 4.0 tem como propósito oferecer aos professores, de ensino fundamental II e médio, capacitação no uso de tecnologias acessíveis que permitam explorar e desenvolver habilidades multidisciplinares com seus alunos.
+O projeto Escola 4.0 tem como propósito oferecer aos professores, de ensino fundamental II e médio, 
+capacitação no uso de tecnologias acessíveis que permitam explorar e desenvolver habilidades 
+multidisciplinares com seus alunos. 
+
+A primeira ação do Projeto Escola 4.0 é o oferecimento deste curso totalmente a distância, usando ferramentas de Ensino A Distância (EAD)    
+<a href="/sobre">
+    <button type="button" class="ml-2 btn btn-primary">Sabia mais</button>
+</a>
+
