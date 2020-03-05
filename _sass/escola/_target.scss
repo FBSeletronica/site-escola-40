@@ -1,0 +1,12 @@
+@import "variables";
+
+.target{
+    height: 60vh;
+    background-color: $secondary-color;
+}
+
+@media (max-width: 460px){
+    .target{
+        height: 70vh;
+    }
+}

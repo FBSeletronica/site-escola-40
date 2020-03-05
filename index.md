@@ -1,5 +1,11 @@
 ---
 layout: home
+
+publico:
+- titulo: Público-alvo
+  subtitulo: Professores de escolas públicas e particulares de ensino fundamental 2 e médio. Estudantes de pedagogia ou cursos similares, coordenadores e diretores de escolas. Facilitadores envolvidos com, ou entusiastas, na melhoria da educação aos jovens. 
+
+
 inscricao:
 - titulo: Fique por dentro
   subtitulo: O curso ainda não foi lançado. Inscreva-se para receber atualizações
