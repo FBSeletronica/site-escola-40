@@ -5,8 +5,8 @@ inscricao:
   subtitulo: O curso ainda não foi lançado. Inscreva-se para receber atualizações
     sobre o curso
 equipe:
-- titulo: Nossa equipe incrível
-  subtitulo: Conheça os integrantes desse projeto maravilhoso!
+- titulo: Nossa equipe
+  subtitulo: ''
 contato:
 - titulo: Contato
   subtitulo: Entre em contato e tire suas dúvidas.
