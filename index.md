@@ -16,7 +16,7 @@ equipe:
 contato:
 - titulo: Contato
   subtitulo: Entre em contato e tire suas dúvidas.
-apoiadores:
+instituicoes:
 - subtitulo: Instituições e apoiadores
 footer:
 - titulo: Quero participar
@@ -29,6 +29,6 @@ multidisciplinares com seus alunos.
 
 A primeira ação do Projeto Escola 4.0 é o oferecimento deste curso totalmente a distância, usando ferramentas de Ensino A Distância (EAD)    
 <a href="/sobre">
-    <button type="button" class="ml-2 btn btn-primary">Sabia mais</button>
+    <button type="button" class="ml-2 btn btn-primary btn-lg">Sabia mais</button>
 </a>
 
