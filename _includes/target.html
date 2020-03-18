@@ -1,0 +1,16 @@
+<section id="publico-alvo" class="target d-flex justify-content-center flex-column">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    {% for item in page.publico %}
+                    <h1 class="text-center pb-4 text-white newsletter-title">
+                        {{ item.titulo}}
+                    </h1>
+                    <p class="text-center">
+                        {{ item.subtitulo }}
+                    </p>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+</section>

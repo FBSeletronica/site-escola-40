@@ -2,7 +2,7 @@ title: Escola 4.0
 email: contato@escola4pontozero.com.br
 description: ""
 baseurl: ""
-url: ""
+url: "https://www.escola4pontozero.com.br"
 twitter_username:
 github_username:
 instagram_username: escola4.0
@@ -14,6 +14,7 @@ theme: minima
 permalink: /blog/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 sass:
     style: compressed
