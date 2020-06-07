@@ -1,0 +1,15 @@
+<section class="icon-course">
+    <div class="container">
+        <div class="row">
+            {% for course in site.courses %}
+            <div class="col-lg-4 mb-3">
+                <div class="icon-course-item text-center">
+                    <i class="fas fa-{{ course.icon }} fa-4x"></i>
+                    <h4 class="text-white pt-3 pb-4">{{ course.title }}</h4>
+                    <p class="text-white">{{ course.content }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
