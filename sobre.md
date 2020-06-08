@@ -20,7 +20,7 @@ Portanto, um dos pilares do projeto Escola 4.0 é preferir as soluções baseada
 
 ## Por que tecnologias acessíveis?
 
-Queremos democratizar o acesso a tecnologias e acreditamos que este processo pode ser guiado pelo professor em sinergia aos com?? conteúdos por ele desenvolvidos.
+Queremos democratizar o acesso a tecnologias e acreditamos que este processo pode ser guiado pelo professor em sinergia com conteúdos por ele desenvolvidos.
 
 A proposta é facilitar o acesso a tecnologias, selecionando, organizando e editando o material de apoio. Disponibilizando orientações para que os professores ou facilitadores construam e ensinem a construir experimentos, e, consequentemente, democratizando o uso destas ferramentas tecnológicas que podem ser integradas ao desenvolvimento do conteúdo curricular.
 
