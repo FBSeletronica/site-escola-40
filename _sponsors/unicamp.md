@@ -1,5 +1,5 @@
 ---
 title: UNICAMP
-img: assets/img/logounicamp.png
+img: assets/img/logos_unicamp_completo_ fundo incolor.png
 ---
 
