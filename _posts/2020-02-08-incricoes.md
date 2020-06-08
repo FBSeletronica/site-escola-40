@@ -22,4 +22,4 @@ Confira os detalhes abaixo e faça já a sua inscrição, pois as vagas são lim
 - Quantidade de alunos: Mínimo de 5 e máximo de 25 alunos matriculados.
 - Valor: R$298,90
 
-[**INCRIÇÃO**](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%A8)
+[**INSCRIÇÃO**](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%A8)
