@@ -22,11 +22,21 @@ Confira os detalhes abaixo e faça já a sua inscrição, pois as vagas são lim
 * Valor: R$298,90
 * [INSCRIÇÃO](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%A8)
 
+Um dos lemas deste curso é fazer mais com menos. E para isto vamos trocar experiências e vivências para otimizar os recursos disponíveis.
+
+Nosso curso está estruturado em dois módulos. O primeiro começará com uma abordagem desplugada onde realizaremos atividades e dinâmicas que não necessitarão de qualquer material.
+
+No segundo módulo, desenvolveremos atividades usando alguns materiais. O principal deles é o Micro:Bit da BBC. Outros virão de sucata eletrônica ou poderão ser produzidos e compartilhados pelos próprios alunos, como peças em MDF, placas de circuitos e componentes que também podem ser facilmente adquiridos pela internet. Em nossos exemplos utilizaremos o simulador da placa, que dispensa a necessidade de compra. Portanto, a aquisição de material é facultativa.
+
+Não vendemos nenhum produto ou divulgamos marcas com fins comerciais. Por outro lado,  podemos – com a ajuda de vocês - organizar uma cooperação mútua,  garimpando, reutilizando, compartilhando e buscando alternativas dentro da realidade dos participantes do curso. 
+
+Esperamos ter você conosco no desenvolvimento destas ideias.
+
 
 ## Qual o objetivo do curso?
 
 A primeira ação do Projeto Escola 4.0 é o oferecimento de um [curso](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%A8) totalmente a distância, usando ferramentas de Ensino a Distância (EaD), possibilitando que professores de diversas regiões tenham acesso ao conteúdo.
-Selecionamos tecnologias acessíveis e reaproveitáveis que abrangem sistemas embarcados, dispositivos móveis, eletrônica e que permitem interação. Isso possibilitará, por exemplo, com que luzes, sons, imagens e comunicação com dispositivos móveis (celulares e tablets) produzam efeitos como execução de uma música, controle de um carro seguidor de trilhas, aceleração e desaceleração do deslocamento de um robô em movimento, etc. etc. Forneceremos aos professores um material organizado e editado. Todas as orientações serão fornecidas considerando que este material possa ser melhorado e adaptado às realidades locais de cada escola brasileira. Por exemplo: atividades didáticas que envolvem música e matemática podem multiplicar seu potencial no formato e, replicadas, na elaboração de um projeto depois que algumas habilidades básicas forem desenvolvidas.
+Selecionamos tecnologias acessíveis e reaproveitáveis que abrangem sistemas embarcados, dispositivos móveis, eletrônica e que permitem interação. Isso possibilitará, por exemplo, com que luzes, sons, imagens e comunicação com dispositivos móveis (celulares e tablets) produzam efeitos como execução de uma música, controle de um carro seguidor de trilhas, aceleração e desaceleração do deslocamento de um robô em movimento, etc. Forneceremos aos professores um material organizado e editado. Todas as orientações serão fornecidas considerando que este material possa ser melhorado e adaptado às realidades locais de cada escola brasileira. Por exemplo: atividades didáticas que envolvem música e matemática podem multiplicar seu potencial no formato e, replicadas, na elaboração de um projeto depois que algumas habilidades básicas forem desenvolvidas.
 
 
 ## Tecnologias acessíveis
