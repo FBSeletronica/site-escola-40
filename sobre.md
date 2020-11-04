@@ -7,7 +7,7 @@ O projeto Escola 4.0 tem como propósito oferecer aos professores, de ensino Fun
 
 ## Como
 
-A primeira ação do Projeto Escola 4.0 é o oferecimento de um [curso](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%A8) totalmente a distância, usando ferramentas de Ensino a Distância (EaD), possibilitando que professores de diversas regiões tenham acesso ao conteúdo.
+A primeira ação do Projeto Escola 4.0 é o oferecimento de um [curso](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%AB) totalmente a distância, usando ferramentas de Ensino a Distância (EaD), possibilitando que professores de diversas regiões tenham acesso ao conteúdo.
 Selecionamos tecnologias acessíveis e reaproveitáveis que abrangem sistemas embarcados, dispositivos móveis, eletrônica e que permitem interação. Isso possibilitará, por exemplo, com que luzes, sons, imagens e comunicação com dispositivos móveis (celulares e tablets) produzam efeitos como execução de uma música, controle de um carro seguidor de trilhas, aceleração e desaceleração do deslocamento de um robô em movimento, etc. etc. Forneceremos aos professores um material organizado e editado. Todas as orientações serão fornecidas considerando que este material possa ser melhorado e adaptado às realidades locais de cada escola brasileira. Por exemplo: atividades didáticas que envolvem música e matemática podem multiplicar seu potencial no formato e, replicadas, na elaboração de um projeto depois que algumas habilidades básicas forem desenvolvidas.
 
 
