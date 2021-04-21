@@ -12,18 +12,17 @@ Confira os detalhes abaixo e faça já a sua inscrição, pois as vagas são lim
 
 ## Detalhes do curso
 
-* Sigla: FEE-0217.
-* Oferecimento: 003.
-* Unidade: FACULDADE DE ENGENHARIA ELÉTRICA E COMPUTAÇÃO.
-* Ementa: Cultura Maker, criatividade e ação, um ambiente de programação lúdico, explorando a sucata eletrônica, o aluno como protagonista, reconhecendo as competências nativas, atividades orientadas: programação, sensores, atuadores, controlando luzes e sons, robô autônomo, estação meteorológica, sistema de irrigação da horta (da escola) ou controle de variáveis do aquário ou terrário (também pode ser montado na escola).
-* Pré-requisito: NÍVEL MÉDIO COMPLETO.
-* Tipo do curso: CURSO DE EXTENSÃO.
-* Certificação: Certificado.
-* Público-alvo: Professores e educadores envolvidos com ensino fundamental II e médio de escolas públicas e particulares de todo território nacional..
-* Hotsite do curso: www.escola4pontozero.com.br
-* Professor(a) responsável: FABIANO FRUETT
-* Professor(es) do curso: FABIANO FRUETT , AUDREY ROBERTO SILVA , FÁBIO BEZERRA DE SOUZA , JOAO VILHETE VIEGAS D ABREU , PEDRO RINALDO CHAVES , RAPHAEL MONTALI DA ASSUMPÇÃO , SAMUEL CARDOSO ZAMPOLLI FRAGA.
-* Valor: R$345,00  - **Uma Placa Micro:Bit V2 enviada para todo aluno que efetivar sua matrícula até 07/06/2021**
+
+
+*  **Curso FEE - 0217:** Desenvolvimento de Atividades Maker para Apoio ao Ensino de Ciências, Tecnologia, Engenharia, Artes e Matemática (STEAM) em Escolas de Ensino Fundamental II e Médio
+*  **Oferecimento:** 003
+*  **Período de inscrições:** 16/04/2021 até 07/06/2021
+*  **Período de oferecimento:** 14/06/2021 até 30/08/2021
+*  **Local do curso:** ONLINE NA PLATAFORMA MOODLE.
+*  **Horas a Distância:** 30 horas teóricas e 30 horas práticas.
+*  **Horário das aulas:** LIVRE, CONFORME DISPONIBILIDADE DO ALUNO DURANTE O PERÍODO DE OFERECIMENTO DO CURSO.
+*  **Quantidade de alunos:** Mínimo de 30 e máximo de 60 alunos matriculados.
+*  **Valor:**  R$345,00 - Uma Placa Micro:Bit V2 enviada para todo aluno que efetivar sua matrícula até 07/06/2021
 * [INSCRIÇÃO](https://www.extecamp.unicamp.br/dados.asp?sigla=%81g%DC%C2%5E%E0%DC%99&of=%F7%12%AA)
 
 Um dos lemas deste curso é fazer mais com menos. E para isto vamos trocar experiências e vivências para otimizar os recursos disponíveis.
