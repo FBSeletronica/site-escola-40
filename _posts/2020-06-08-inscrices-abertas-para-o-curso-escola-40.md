@@ -5,7 +5,7 @@ date: '2020-06-08 17:07:13'
 img: assets/img/slide_02.png
 ---
 
-Estão abertas as inscrições para o primeira turma do curso **Escola 4.0 - Desenvolvimento de Atividades Maker para Apoio ao Ensino de Ciências, Tecnologia, Engenharia, Artes e Matemática (STEAM) em Escolas de Ensino Fundamental II e Médio.**
+Estão abertas as inscrições para mais uma turma do curso **Escola 4.0 - Desenvolvimento de Atividades Maker para Apoio ao Ensino de Ciências, Tecnologia, Engenharia, Artes e Matemática (STEAM) em Escolas de Ensino Fundamental II e Médio.**
 
 Confira os detalhes abaixo e faça já a sua inscrição, pois as vagas são limitada:
 
@@ -31,7 +31,7 @@ Nosso curso está estruturado em dois módulos. O primeiro começará com uma ab
 
 No segundo módulo, desenvolveremos atividades usando alguns materiais. O principal deles é o Micro:Bit da BBC. Outros virão de sucata eletrônica ou poderão ser produzidos e compartilhados pelos próprios alunos, como peças em MDF, placas de circuitos e componentes que também podem ser facilmente adquiridos pela internet. Em nossos exemplos utilizaremos o simulador da placa, que dispensa a necessidade de compra. Portanto, a aquisição de material é facultativa.
 
-Não vendemos nenhum produto ou divulgamos marcas com fins comerciais. Por outro lado,  podemos – com a ajuda de vocês - organizar uma cooperação mútua,  garimpando, reutilizando, compartilhando e buscando alternativas dentro da realidade dos participantes do curso. 
+Não vendemos nenhum produto ou divulgamos marcas com fins comerciais. Por outro lado,  podemos – com a ajuda de vocês - organizar uma cooperação mútua,  garimpando, reutilizando, compartilhando e buscando alternativas dentro da realidade dos participantes do curso.
 
 Esperamos ter você conosco no desenvolvimento destas ideias.
 
